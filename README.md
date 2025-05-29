@@ -23,7 +23,7 @@ xh-lkj
 ## 安装与使用
 ### 环境要求
 - Python 3.6 及以上版本
-- 必须安装 `Tkinter`、`matplotlib`、`scapy`、`paramiko` 等库。
+- 必须安装 Tkinter、matplotlib、scapy、paramiko 等库。
 
 ### 安装依赖
 
