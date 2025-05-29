@@ -1,4 +1,3 @@
-# ddos-integrated-tools
 # ddos 落雪攻击
 
 ## 版本号
